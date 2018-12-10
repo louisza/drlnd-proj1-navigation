@@ -19,9 +19,13 @@ The task is episodic, and in order to solve the environment, the agent must get 
 ### Getting Started
 The code was programmed in Python 3.6 in a [Jupyter](https://jupyter.org/) notebook with the following modules:
 - [unityagents](https://github.com/Unity-Technologies/ml-agents)  
+
 - [torch](https://pytorch.org/)  
+
 - [numpy](http://www.numpy.org/)  
+
 - [matplotlib](https://matplotlib.org/)  
+
 
 Instructions for all the dependencies, [click here](https://github.com/udacity/deep-reinforcement-learning#dependencies)
 
@@ -34,4 +38,4 @@ Download the Unity environment from one of the links below.  You need only selec
 
 ### Instructions
 
-Clone the repository and follow the instructions in `Report.ipynb` to train the agent. Be sure to use the ocrrect kernel with all teh stated dependencies.
+Clone the repository and follow the instructions in `Report.ipynb` to train the agent. Be sure to use the correct kernel with all the stated dependencies.
