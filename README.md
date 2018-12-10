@@ -18,10 +18,10 @@ The task is episodic, and in order to solve the environment, the agent must get 
 
 ### Getting Started
 The code was programmed in Python 3.6 in a [Jupyter](https://jupyter.org/) notebook with the following modules:
-- [unityagents](https://github.com/Unity-Technologies/ml-agents)
-- [torch](https://pytorch.org/)
-- [numpy](http://www.numpy.org/)
-- [matplotlib](https://matplotlib.org/)
+- [unityagents](https://github.com/Unity-Technologies/ml-agents)  
+- [torch](https://pytorch.org/)  
+- [numpy](http://www.numpy.org/)  
+- [matplotlib](https://matplotlib.org/)  
 
 Instructions for all the dependencies, [click here](https://github.com/udacity/deep-reinforcement-learning#dependencies)
 
